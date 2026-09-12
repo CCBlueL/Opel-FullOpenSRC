@@ -1,0 +1,7 @@
+{
+  "package": "opel.mixin",
+  "plugin": "opel.init.FMLLoadingPlugin",
+  "refmap": "mixins.opel.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8"
+}
